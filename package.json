@@ -1,0 +1,22 @@
+{
+  "name": "dismalniche.github.io",
+  "version": "1.0.0",
+  "description": "systems.internetz.eschatology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"wot?\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dismalNiche/dismalniche.github.io.git"
+  },
+  "keywords": [
+    "systems.internetz.eschatology."
+  ],
+  "author": "tobias.che",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dismalNiche/dismalniche.github.io/issues"
+  },
+  "homepage": "https://github.com/dismalNiche/dismalniche.github.io#readme"
+}
